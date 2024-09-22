@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Elegant
+Description=Elegant
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes//Elegant
+ScriptFile=/usr/share/plymouth/themes/Elegant/animated-boot.script
