@@ -23,7 +23,7 @@ Animated Plymouth theme of a Mint leaf being unfolded
 this copies the Elegant theme folder into the plymouth themes folder.
 
 
-4. Install the theme by creating a symbolic linking from your new theme to the default.python file:
+4. Install the theme by creating a symbolic linking from your new theme to the default.plymouth file:
 
 
         sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/Elegant/Elegant.plymouth 100
